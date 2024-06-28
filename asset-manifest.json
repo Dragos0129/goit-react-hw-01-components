@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Dragos0129/goit-react-hw-01-components.git/static/css/main.9921e1b5.css",
+    "main.css": "/Dragos0129/goit-react-hw-01-components.git/static/css/main.a37c6dc1.css",
     "main.js": "/Dragos0129/goit-react-hw-01-components.git/static/js/main.3cf173b4.js",
     "index.html": "/Dragos0129/goit-react-hw-01-components.git/index.html",
-    "main.9921e1b5.css.map": "/Dragos0129/goit-react-hw-01-components.git/static/css/main.9921e1b5.css.map",
+    "main.a37c6dc1.css.map": "/Dragos0129/goit-react-hw-01-components.git/static/css/main.a37c6dc1.css.map",
     "main.3cf173b4.js.map": "/Dragos0129/goit-react-hw-01-components.git/static/js/main.3cf173b4.js.map"
   },
   "entrypoints": [
-    "static/css/main.9921e1b5.css",
+    "static/css/main.a37c6dc1.css",
     "static/js/main.3cf173b4.js"
   ]
 }
