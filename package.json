@@ -2,7 +2,7 @@
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dragos0129.github.io/goit-react-hw-01-components/",
+  "homepage": "https://github.com/Dragos0129/goit-react-hw-01-components.git",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
