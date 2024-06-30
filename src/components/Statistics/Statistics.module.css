@@ -10,6 +10,7 @@
   box-shadow: 5px 5px 15px 5px #000000;
   gap: 35px;
   transition: scale 300ms;
+  width: 650px;
 }
 
 .statistics:hover {
